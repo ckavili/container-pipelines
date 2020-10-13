@@ -51,4 +51,4 @@ These pipeline quickstarts include an Ansible inventory through which they can b
 ## Optional: Use a container that contains ansible 
 So you don't have to install ansible on your machine.   Just type `oc run -i -t tool-box-test --image=quay.io/redhat-cop/tool-box --rm bash`.  More into on the toolbox container can be found at https://github.com/redhat-cop/containers-quickstarts/tree/master/tool-box.
 
-# Test for Pelorus Traning
+# Test for Pelorus Traning 2
